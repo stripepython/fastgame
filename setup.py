@@ -10,7 +10,7 @@ setup(
     maintainer='stripe-python',
     maintainer_email='13513519246@139.com',
     py_modules=find_packages(),
-    version='1.0.0',
+    version='1.1.0',
     description='Fastgame是一个帮助你快速构建游戏或简单的GUI界面的python第三方库。',
     long_description=long_description,
     long_description_content_type='text/markdown',
