@@ -15,7 +15,7 @@ class Version(object):
         self.version = f'{_major}.{_minor}.{_micro}'
         
 
-_ver = Version(1, 0, 0)
+_ver = Version(1, 1, 0)
 major = _ver.major
 minor = _ver.minor
 micro = _ver.micro
