@@ -301,6 +301,13 @@ class FastGame(object):
         """
         self.clock.tick(self.fps)
     
+    @staticmethod
+    def draw():
+        """
+        绘制窗口图像。
+        """
+        pygame.display.flip()
+    
     def mainloop(self, status: int = 0, escape_quit: bool = False, render_all: bool = False,
                  fps_mode=BEFORE):
         """
