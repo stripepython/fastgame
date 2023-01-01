@@ -1,3 +1,5 @@
+> 警告：fastgame已经停止维护。请使用`opengame`来代替。
+
 # 什么是fastgame
 Fastgame是一个帮助你快速构建游戏或简单的GUI界面的python第三方库。  
 内部封装pygame2复杂的API。
